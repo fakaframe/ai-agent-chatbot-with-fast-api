@@ -154,5 +154,5 @@ This project is licensed under the MIT License.
 
 ## 📬 Contact
 
-Created with ❤️ by [Chinmoy Mitra](https://github.com/Chinmoy17)  
+Created with ❤️ by [Taifur Rahman](https://github.com/fakaframe)
 Feel free to open issues or contribute!
